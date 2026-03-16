@@ -1,16 +1,38 @@
-## Hi there 👋
+# About me :)
 
-<!--
-**greyscale021/greyscale021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student & an aspiring Cloud Engineer. End career goal (for now): Cloud Engineering, AWS focused.
 
-Here are some ideas to get you started:
+## My Repo Structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Read the READMEs for an overview — every repo has a well documented README, at least I tried :)
+
+| Name | Description | Links |
+|------|-------------|-------|
+| **Learned** | - Everything I've learned so far, documented as notes on every topic. <br> - README contains an index with **Topic Repo** links | [Learned](https://github.com/greyscale021/Learned) |
+| **Topic Repos** | - One repo per major topic. Contains scripts and experiments I made while learning. <br> - README contains all the projects I did related to that topic | [Python](https://github.com/greyscale021/Python) |
+| **Project Repos** | One repo per major project. | |
+
+## Currently
+- ✅ Python
+- ✅ Git
+- ✅ Linux
+- 🔲 Scripting → Networking → AWS → Docker → Terraform → Kubernetes → CI/CD
+
+---
+
+## More About Me
+- I tend to learn the most random, complex things at the most random times... what, I'm a curious person.
+- Competitive gamer and chess player (CR 1400)
+- Affinity for Philosophy. Writers I'm drawn to:
+    > Somehow, my original thoughts match the exact words they wrote in the 1800s..
+
+    - Fyodor Dostoevsky (Russian Novelist)
+    - Friedrich Nietzsche (German Philosopher)
+    - Niccolò Machiavelli (Italian Political Philosopher)
+    - Franz Kafka (Czech Novelist)
+
+- Affinity for Psychology. Naturally high AQ and EQ.
+
+---
+
+> *"In a world where everyone has their own ideologies, philosophies, morals, perceptions, circumstances and loved ones — whoever is strongest has the greatest freedom to protect theirs."*
