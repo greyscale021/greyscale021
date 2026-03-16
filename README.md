@@ -6,14 +6,14 @@ End career goal (for now): Cloud Engineering, AWS focused.
 
 ## My Repo Structure
 
-> Read the READMEs for an overview — every repo has a well documented README, at least I tried :)
+> Read the READMEs for an overview — every repo has a well documented README :)
 
 | Name | Description | Links |
 |------|-------------|-------|
 | **Learned** | - Everything I've learned so far, documented as notes on every topic. <br> - README contains an index with **Topic Repo** links | [Learned](https://github.com/greyscale021/Learned) |
 | **Topic Repos** | - One repo per major topic. Contains scripts and experiments I made while learning. <br> - README contains all the projects I did related to that topic | [Python](https://github.com/greyscale021/Python) |
 | **Project Repos** | One repo per major project. | |
-
+> Go see the pinned repos :)
 ## Currently
 - ✅ Python
 - ✅ Git
