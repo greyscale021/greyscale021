@@ -1,6 +1,8 @@
 # About me :)
 
-CS Student & an aspiring Cloud Engineer. End career goal (for now): Cloud Engineering, AWS focused.
+CS Student & an aspiring Cloud Engineer. 
+
+End career goal (for now): Cloud Engineering, AWS focused.
 
 ## My Repo Structure
 
