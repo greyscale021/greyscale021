@@ -33,7 +33,7 @@ End career goal (for now): Cloud Engineering, AWS focused.
     - Niccolò Machiavelli (Italian Political Philosopher)
     - Franz Kafka (Czech Novelist)
 
-- Affinity for Psychology. Naturally high AQ and EQ.
+- Affinity for Psychology.
 
 ---
 
