@@ -10,7 +10,7 @@ End career goal (for now): Cloud Engineering, AWS focused.
 |------|-------------|-------|
 | **Learned** | - Everything I've learned so far, documented as notes on every topic. <br> - README contains an index with **Topic Repo** links | [Learned](https://github.com/greyscale021/Learned) |
 | **Topic Repos** | - One repo per major topic. Contains scripts and experiments I made while learning. <br> - README contains all the projects I did related to that topic | [Python](https://github.com/greyscale021/Python) |
-| **Project Repos** | One repo per major project. | [ismails-nocturne(P-1)](https://github.com/greyscale021/Project-1-ismails-nocturne?tab=readme-ov-file)|
+| **Project Repos** | One repo per major project. | - [ismails_nocturne (P-1)](https://github.com/greyscale021/Project-1-ismails-nocturne?tab=readme-ov-file) - [Alfred_AI (P-2)](https://github.com/greyscale021/Project-2-ALfred_USB_AI)|
 
 > Go see the pinned repos :)
 
