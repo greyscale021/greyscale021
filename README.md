@@ -1,6 +1,6 @@
 # About me :)
 CS Student & aspiring Cloud Engineer.
-End career goal (for now): Cloud Engineering, AWS focused.
+End career goal: Cloud Engineering, AWS focused. Well, atleast for now :)
 
  ·[Portfolio?](https://ismails-nocturne.vercel.app) · [LinkedIn?](https://www.linkedin.com/in/ismail-hossen-637993388/) · greyscale021@gmail.com
 ## My Repo Structure
