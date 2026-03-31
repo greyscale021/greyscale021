@@ -2,7 +2,7 @@
 CS Student & aspiring Cloud Engineer.
 End career goal: Cloud Engineering, AWS focused. Well, atleast for now :)
 
- ·[Portfolio?](https://ismails-nocturne.vercel.app) · [LinkedIn?](https://www.linkedin.com/in/ismail-hossen-637993388/) · greyscale021@gmail.com
+ ·[Portfolio?](https://ismails-nocturne.vercel.app) · [LinkedIn?](https://www.linkedin.com/in/mohammad-ismail-hossen/) · greyscale021@gmail.com
 ## My Repo Structure
 > Read the READMEs for an overview — every repo has a well documented README :)
 
